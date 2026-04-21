@@ -1,8 +1,8 @@
 # python_project_template
 
 ## Overview
-This is an example template for organizing a python data sceince project.    
-You should use this structure to organize your final project.  It allows a clean separation of documentation, notebooks, and python scripts you are creating.  Reusing a similar format will make the project workflow more reusable for others in your organization.    
+This is an example template for organizing a python data science project.    
+You should use this structure to organize your final project.  It allows a clean separation of documentation, notebooks, and python scripts.  Reusing a similar format will make the project workflow more reusable for others in your organization.    
 
 ## Summary 
 Provide a brief summary of your project here.   
