@@ -23,9 +23,9 @@ class Schemes(Enum):
 
 
 def plot_map_by_column(
-        gdf: gpd.GeoDataFrame, 
-        column: str, 
-        color_ramp: ColorRamps, 
+        gdf: gpd.GeoDataFrame,
+        column: str,
+        color_ramp: ColorRamps,
         scheme: Schemes,
         title: str):
     fig, ax = plt.subplots(figsize=(12, 8), facecolor="#1a1a1a")
